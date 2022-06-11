@@ -3,11 +3,11 @@ pip install virtualenv
 ```
 
 ```
-virtualenv py
+virtualenv .env
 ```
 
 ```
-source py/bin/activate
+source .env/bin/activate
 ```
 
 or in windows 
