@@ -1,0 +1,11 @@
+{"train_data":
+    [
+        {"features":[0.18, 0.89], "result": 109.85},
+        {"features":[1.0, 0.26],  "result": 155.72},
+        {"features":[0.92, 0.11], "result": 137.66},
+        {"features":[0.07, 0.37], "result": 76.17},
+        {"features":[0.85, 0.16], "result": 139.75},
+        {"features":[0.99, 0.41], "result": 162.6},
+        {"features":[0.87, 0.47], "result": 151.77}
+    ]
+}
